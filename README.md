@@ -21,6 +21,7 @@ Whether you are building an e-commerce catalog, developing an app, or optimizing
 ### ✂️ Isolate & Extract (Matting & Cleanup)
 *Tools designed to separate subjects from their backgrounds, remove unwanted objects, and create clean, transparent assets.*
 
+* [ClearCrowds](https://clearcrowds.com/) - AI photo cleanup editor for removing crowds, unwanted objects, clutter, and other distractions with presets and natural-language prompts.
 * **[Remove.photos](https://remove.photos)** - An incredibly fast, zero-click cloud AI tool that offers automatic background removal, precise object cleanup, and sky replacement right in the browser. Perfect for high-volume product photos.
 * [Erase.bg](https://www.erase.bg/) - A smart AI background remover and image editor.
 * [MagicEraser](https://magicstudio.com/magiceraser) - Remove unwanted things from images in seconds.
