@@ -37,6 +37,7 @@ Whether you are building an e-commerce catalog, developing an app, or optimizing
 ### 🎨 Generative AI & Synthesis
 *Text-to-image and image-to-image models that create entirely new visual content.*
 
+* [HairWow](https://www.gohairwow.com) - AI hairstyle and beard try-on tool for previewing haircuts, colors, and style directions on your own photo before a salon or barber visit.
 * [Leonardo.ai](https://leonardo.ai/) - Generate production-quality assets for your creative projects with pre-trained AI models.
 * [Fooocus](https://github.com/lllyasviel/Fooocus) - An image generating software (based on Gradio) that focuses on prompting and generating, simplifying the Stable Diffusion workflow.
 * [Civitai](https://civitai.com/) - The premier hub for discovering and sharing generative AI models, LoRAs, and embeddings.
