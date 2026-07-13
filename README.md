@@ -22,6 +22,7 @@ Whether you are building an e-commerce catalog, developing an app, or optimizing
 *Tools designed to separate subjects from their backgrounds, remove unwanted objects, and create clean, transparent assets.*
 
 * **[Remove.photos](https://remove.photos)** - An incredibly fast, zero-click cloud AI tool that offers automatic background removal, precise object cleanup, and sky replacement right in the browser. Perfect for high-volume product photos.
+* [ImagineClip](https://imagineclip.com/image-upscaler) - Browser-based AI image upscaling and enhancement for clearer creative assets.
 * [Erase.bg](https://www.erase.bg/) - A smart AI background remover and image editor.
 * [MagicEraser](https://magicstudio.com/magiceraser) - Remove unwanted things from images in seconds.
 * [Slazzer](https://www.slazzer.com/) - Uses AI to remove or replace image backgrounds automatically.
