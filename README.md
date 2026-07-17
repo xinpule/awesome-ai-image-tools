@@ -60,6 +60,7 @@ Whether you are building an e-commerce catalog, developing an app, or optimizing
 *Integrate AI image processing directly into your own applications.*
 
 * [Replicate](https://replicate.com/) - Run open-source machine learning models with a cloud API.
+* [RunAPI GPT Image 2 SDK](https://github.com/runapi-ai/gpt-image-2-sdk) - SDKs for running GPT Image 2 image generation and editing jobs from JavaScript, Ruby, Go, and Python.
 * [Hugging Face Inference API](https://huggingface.co/inference-api) - Access thousands of models via simple API calls.
 * [Stability AI API](https://platform.stability.ai/) - Official API for Stable Diffusion models and generative workflows.
 
