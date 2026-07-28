@@ -39,6 +39,7 @@ Whether you are building an e-commerce catalog, developing an app, or optimizing
 
 * [Leonardo.ai](https://leonardo.ai/) - Generate production-quality assets for your creative projects with pre-trained AI models.
 * [Fooocus](https://github.com/lllyasviel/Fooocus) - An image generating software (based on Gradio) that focuses on prompting and generating, simplifying the Stable Diffusion workflow.
+* [GPT Image 2](https://gptimage2.asia/) - Create and edit production-ready AI images for marketing, ecommerce, social media, and branded content.
 * [Civitai](https://civitai.com/) - The premier hub for discovering and sharing generative AI models, LoRAs, and embeddings.
 
 ### 🗜️ Optimization & File Processing
