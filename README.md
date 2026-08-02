@@ -40,6 +40,7 @@ Whether you are building an e-commerce catalog, developing an app, or optimizing
 * [Leonardo.ai](https://leonardo.ai/) - Generate production-quality assets for your creative projects with pre-trained AI models.
 * [Fooocus](https://github.com/lllyasviel/Fooocus) - An image generating software (based on Gradio) that focuses on prompting and generating, simplifying the Stable Diffusion workflow.
 * [Civitai](https://civitai.com/) - The premier hub for discovering and sharing generative AI models, LoRAs, and embeddings.
+* [AIImageChanger.app](https://aiimagechanger.app/) - Image-to-image editing with plain-language prompts: change backgrounds, objects, clothing, colors, text, and styles while preserving details that should stay unchanged.
 
 ### 🗜️ Optimization & File Processing
 *Smart utilities for compressing, converting, and optimizing visual assets without losing perceptual quality.*
