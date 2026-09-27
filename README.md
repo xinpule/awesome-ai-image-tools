@@ -55,6 +55,7 @@ Whether you are building an e-commerce catalog, developing an app, or optimizing
 * *(🚀 Submit your small and beautiful file preview/processing tools here via PR!)*
 * [Photopea](https://www.photopea.com/) - Advanced online photo editor supporting PSD, XCF, Sketch, XD and CDR formats.
 * [Gltf Viewer](https://gltf-viewer.donmccurdy.com/) - Drag-and-drop web tool for previewing glTF 2.0 3D models.
+* [FileOnTap](https://fileontap.com/heic-to-jpg) - Free browser-based HEIC-to-JPG converter; processing stays local and requires no account.
 
 ### 💻 Developer APIs & SDKs
 *Integrate AI image processing directly into your own applications.*
