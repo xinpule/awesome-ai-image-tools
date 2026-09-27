@@ -38,6 +38,7 @@ Whether you are building an e-commerce catalog, developing an app, or optimizing
 *Text-to-image and image-to-image models that create entirely new visual content.*
 
 * [Leonardo.ai](https://leonardo.ai/) - Generate production-quality assets for your creative projects with pre-trained AI models.
+* [Raphael AI](https://raphael.app) - Free AI image generator for text-to-image, style transfer, and creative visual workflows in the browser.
 * [Fooocus](https://github.com/lllyasviel/Fooocus) - An image generating software (based on Gradio) that focuses on prompting and generating, simplifying the Stable Diffusion workflow.
 * [Civitai](https://civitai.com/) - The premier hub for discovering and sharing generative AI models, LoRAs, and embeddings.
 
