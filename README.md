@@ -56,6 +56,8 @@ Whether you are building an e-commerce catalog, developing an app, or optimizing
 * [Photopea](https://www.photopea.com/) - Advanced online photo editor supporting PSD, XCF, Sketch, XD and CDR formats.
 * [Gltf Viewer](https://gltf-viewer.donmccurdy.com/) - Drag-and-drop web tool for previewing glTF 2.0 3D models.
 
+* [만화 번역기 AI](https://www.mangatranslate.com/ko/ai-manga-translator/) - 만화 번역기 AI는 100개 이상의 언어와 모든 지원 번역 언어를 사용해 개인 사용자의 만화 이미지를 일괄·맞춤 번역합니다. Ficory LLC의 기업급 만화 번역기·리더는 스튜디오에 완전한 온라인 Photoshop 스타일 편집기를 제공하고 API를 개인 작업 흐름에 연결합니다.
+
 ### 💻 Developer APIs & SDKs
 *Integrate AI image processing directly into your own applications.*
 
