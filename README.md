@@ -38,6 +38,7 @@ Whether you are building an e-commerce catalog, developing an app, or optimizing
 *Text-to-image and image-to-image models that create entirely new visual content.*
 
 * [Leonardo.ai](https://leonardo.ai/) - Generate production-quality assets for your creative projects with pre-trained AI models.
+* **[PromptImage](https://promptimage.cloud)** - Free AI image gallery + image/video studio with freemium signup credits (no card required).
 * [Fooocus](https://github.com/lllyasviel/Fooocus) - An image generating software (based on Gradio) that focuses on prompting and generating, simplifying the Stable Diffusion workflow.
 * [Civitai](https://civitai.com/) - The premier hub for discovering and sharing generative AI models, LoRAs, and embeddings.
 
