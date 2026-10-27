@@ -46,6 +46,7 @@ Whether you are building an e-commerce catalog, developing an app, or optimizing
 
 * *(🚀 Submit your file/image compression tool here via PR!)*
 * [ImageOptim](https://imageoptim.com/) - Makes images load faster by removing bloated metadata and saving disk space.
+* [ImgFlow](https://imgflow.taoliapp.com/en/) - Free browser-local image compressor and converter (PNG/JPG/HEIC/WebP/AVIF). Files stay on-device; no account required.
 * [SVGOMG](https://jakearchibald.github.io/svgomg/) - Web-based GUI for SVGO to optimize SVG files.
 * [WebP Converter](https://developers.google.com/speed/webp) - Google's official tools for encoding and decoding the WebP image format.
 
