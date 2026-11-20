@@ -25,6 +25,7 @@ Whether you are building an e-commerce catalog, developing an app, or optimizing
 * [Erase.bg](https://www.erase.bg/) - A smart AI background remover and image editor.
 * [MagicEraser](https://magicstudio.com/magiceraser) - Remove unwanted things from images in seconds.
 * [Slazzer](https://www.slazzer.com/) - Uses AI to remove or replace image backgrounds automatically.
+* [BackGone](https://backgone.com/) - Free browser-based background remover for photos and animated GIFs; exports transparent PNGs without signup.
 
 ### ✨ Enhance & Restore (Upscaling & Fixes)
 *Solutions for breathing new life into low-resolution images, colorizing old photos, and sharpening details.*
